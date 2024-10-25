@@ -1,4 +1,3 @@
-count = 0
 
-if count == 0:
-    print('hello')
+for _ in range(5):
+    print('hello, world')
